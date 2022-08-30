@@ -1,6 +1,5 @@
 # esx_subway
-
-Fellow | Communauté ✨
+MAVIX INC.
 
 https://discord.gg/HctMr5Ug
 
