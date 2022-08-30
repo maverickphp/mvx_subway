@@ -2,7 +2,7 @@
 
 Fellow | Communauté ✨
 
-https://discord.gg/bJCsrG5h2G
+https://discord.gg/HctMr5Ug
 
 ✅ Vídeo: https://www.youtube.com/watch?v=TlWbAK1l6LY
 

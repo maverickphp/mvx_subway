@@ -4,7 +4,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'Maverick.#7494'
-contributors 'SUP2Ak#3755'
+contributors 'srn#6846'
 
 description 'ESX Subway'
 
