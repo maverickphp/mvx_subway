@@ -1,0 +1,25 @@
+Locales['en'] = {
+  ['title']                           = 'Subway',
+  ['title_garage']                    = 'Subway Garage',
+  ['money_society']                   = 'Society money : ',
+  ['deposit']                         = 'Deposit',
+  ['withdraw']                        = 'Withdraw',
+  ['amount']                          = 'Enter a value',
+  ['management']                      = 'Employee management',
+  ['fire']                            = 'Fired',
+  ['promote']                         = 'Promote',
+  ['demote']                          = 'Downgrade',
+  ['recruit']                         = 'Recruit',
+  ['you_have_fired']                  = 'You have fired ',
+  ['you_have_been_fired']             = 'You have been fired',
+  ['you_have_promoted']               = 'You have promoted ',
+  ['you_have_been_promoted']          = 'You have been promted',
+  ['you_have_demoted']                = 'You have demoted',
+  ['you_have_been_demoted']           = 'You have been demoted',
+  ['you_have_recruit']                = 'You have recruited ',
+  ['you_have_been_recruit']           = 'You have been recruited',
+  ['max_item']                        = 'You already have enough on you',
+
+  -- Blip
+  ['subway']                      = 'Subway',
+}
