@@ -3,7 +3,7 @@ MAVIX INC.
 
 https://discord.gg/HctMr5Ug
 
-✅ MLO: https://www.youtube.com/watch?v=TlWbAK1l6LY
+✅ MLO: https://payhip.com/b/tIjhN
 
 ## Requirements
 
